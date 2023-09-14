@@ -24,7 +24,7 @@ if __name__ == "__main__":
     # List of example tweets
     tweets = [
         "I'm having a great day!",
-        "This is the worst weather ever. ☔️",
+        "This is the worst weather ever. ",
         "I'm feeling neutral about this.",
         "I can't believe how awesome this is! ",
     ]
