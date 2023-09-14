@@ -1,7 +1,7 @@
 import openai
 
 # Replace 'YOUR_API_KEY' with your actual OpenAI API key
-api_key = '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'
+api_key = ''
 
 def analyze_sentiment(tweet_text):
     openai.api_key = api_key
